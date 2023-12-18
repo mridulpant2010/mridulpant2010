@@ -10,5 +10,6 @@
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/mridul-pant-5351a510a/
   - mridulpant2010@gmail.com
+  - [blog.m](https://blog.mridulpant.com/)
 - ⚡ Fun fact: I love to build personal management system. Obsessed with Obsidian.
 
